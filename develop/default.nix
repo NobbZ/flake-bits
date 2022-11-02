@@ -1,0 +1,4 @@
+{mkSkell}:
+mkShell {
+  packages = [alejandra];
+}
